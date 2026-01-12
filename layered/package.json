@@ -20,6 +20,7 @@
   },
   "homepage": "https://github.com/siri-se/midterm-2568-67543210024-5#readme",
   "dependencies": {
+    "express": "^5.2.1",
     "sqlite3": "^5.1.7"
   }
 }

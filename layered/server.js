@@ -1,5 +1,3 @@
-server.js
-
 // server.js
 const express = require('express');
 const bookRoutes = require('./src/presentation/routes/bookRoutes');

@@ -1,5 +1,3 @@
-src/data/repositories/bookRepository.js
-
 // src/data/repositories/bookRepository.js
 const db = require('../database/connection');
 
